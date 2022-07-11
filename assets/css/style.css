@@ -717,7 +717,8 @@ p.form-message.error {
     .modal-dialog {
       max-width: 480px; } }
   .modal-dialog .modal-content {
-    border-radius: 0px;
+    border-radius: 5px;
+    border: none;
     position: relative; }
     .modal-dialog .modal-content .close {
       position: absolute;
